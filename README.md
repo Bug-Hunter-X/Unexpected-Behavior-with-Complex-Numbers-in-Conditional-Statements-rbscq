@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Julia code that arises when dealing with complex numbers and conditional statements. The original code incorrectly handles cases where complex numbers have a negative real part and a positive imaginary part. The solution demonstrates how to correctly handle these cases, ensuring the function behaves as expected for all valid inputs.
